@@ -21,3 +21,5 @@ to check if a library is already installed, run the python terminal ('python' co
 
 And you're golden!
 Run the scripts in sequence (#1, then #2, then #3)
+
+After the python scripts are run, import the .graphml file (output of script #3) into gephi, and start playing with your graph!
