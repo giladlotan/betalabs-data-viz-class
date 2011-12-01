@@ -1,0 +1,23 @@
+What you need to run these scripts in the class:
+
+1. Python - should be installed on your computer. You can easily check by opening up Terminal and typing 'python'. If you get an error, your homework tonight is to google 'install python' and get it working!
+
+2. Python Libraries - make sure you have the following python libraries installed: 
+  - tweepy
+	- networkx
+	- pickle
+	
+to check if a library is already installed, run the python terminal ('python' command in your terminal window). Then type 'import tweepy' (or any of the other libraries). If no errors appear - success! Otherwise, you need to install the library. Easiest way is by using 'easy_install'. For example, to install tweepy you can run the following command - 'easy_install tweepy'
+
+3. Goto http://dev.twitter.com and login with your twitter account. From the homepage click on 'Create an App'. Fill in the given fields with whatever data you want (Name, Description, WebSite), and then save the following 4 fields into a text file on your computer:
+	- Consumer Key
+	- Consumer Secret
+	- Access Token
+	- Access Secret
+
+4. Gephi - download Gephi and make sure it runs on your computer. 
+
+5. Download the code samples from the class repo - https://github.com/giladlotan/betalabs-data-viz-class
+
+And you're golden!
+Run the scripts in sequence (#1, then #2, then #3)
